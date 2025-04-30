@@ -1,5 +1,5 @@
 <?php
 
-// header("https://data.sunnydayflooding.com/");
-echo "HERE";
+header("Location: https://data.sunnydayflooding.com/");
+
 ?>
